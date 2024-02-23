@@ -199,7 +199,6 @@ function ataqueTierra(){
     ataqueAleatorioEnemigo()
 }  */
 
-    
     /* if(ataqueAleatorio==1){
         spanMascotaEnemigo.innerHTML="Hipodoge"
     }else if(ataqueAleatorio==2){
@@ -207,8 +206,6 @@ function ataqueTierra(){
     }else{
         spanMascotaEnemigo.innerHTML="Sarigueya"
     } */
-
-
 
 function ataqueAleatorioEnemigo(){
     let ataqueAleatorio=aleatorio(0, ataqueAleatorioEnemigo.length -1)
@@ -297,7 +294,6 @@ function crearMensajeFinal(resultadoFinal){
     //sectionMensaje.appendChild(parrafo)
     
 }
-
 
 function reiniciarJuego(){
     location.reload()
