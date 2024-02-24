@@ -12,8 +12,6 @@ const spanMascotaEnemigo = document.getElementById("mascota-enemigo")
 const spanVidasJugador =document.getElementById("vidas-jugador")
 const spanVidasEnemigo =document.getElementById("vidas-enemigo")   
 
-
-
 const sectionMensaje = document.getElementById("resultado")
 const ataqueDelJugador = document.getElementById("ataque-del-jugador")
 const ataqueDelEnemigo = document.getElementById("ataque-del-enemigo")
